@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+
+  body {
+    @apply bg-ink-navy bg-blueprint text-text-bright;
+  }
+
+  /* Keyboard focus visibility — kept intentionally, don't remove for aesthetics */
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-signal;
+  }
+}
+
+@layer utilities {
+  .status-dot {
+    @apply w-1.5 h-1.5 rounded-full bg-success animate-pulse shadow-[0_0_8px_2px_rgba(52,211,153,0.5)];
+  }
+}

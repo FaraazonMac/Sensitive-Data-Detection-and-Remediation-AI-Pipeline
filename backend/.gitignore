@@ -1,0 +1,28 @@
+# --- Python / backend ---
+pii/
+venv/
+.venv/
+env/
+
+__pycache__/
+*.pyc
+*.pyo
+
+backend/models/
+backend/chroma_store/
+
+# Secrets — never commit your Gemini API key
+.env
+.env.local
+*.env
+
+# --- Node / frontend ---
+node_modules/
+dist/
+frontend/dist/
+.vite/
+*.log
+
+# --- OS cruft ---
+.DS_Store
+Thumbs.db
