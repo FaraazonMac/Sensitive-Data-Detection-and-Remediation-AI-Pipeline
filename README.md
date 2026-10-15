@@ -67,7 +67,7 @@ Then open `http://localhost:5173`.
 
 3. <img width="878" height="745" alt="image" src="https://github.com/user-attachments/assets/2fb4db01-5b16-44c9-aacc-b3cff27f82ca" />
 
-## 📩 Contact & Info
+## Contact & Info
 
 - **Analyst:** Mohammed Faraaz Shaik — [faraazshaik05042005@gmail.com](mailto:faraazshaik05042005@gmail.com)
 - **LinkedIn:** [Mohammed Faraaz Shaik](https://www.linkedin.com/in/mohammed-faraaz-shaik)
